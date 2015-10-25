@@ -1,0 +1,35 @@
+{
+  "name": "nodebynode",
+  "version": "1.0.0",
+  "description": "The most basic nodejs server you can actualy do something with",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "help": "^2.1.1"
+  },
+  "devDependencies": {
+    "gulp-apidoc": "^0.2.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-gzip": "^1.2.0",
+    "gulp-manifest": "^0.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://saske505@github.com/saske505/nodeJs.git"
+  },
+  "author": "stephan maree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saske505/nodeJs/issues"
+  },
+  "homepage": "https://github.com/saske505/nodeJs#readme"
+}

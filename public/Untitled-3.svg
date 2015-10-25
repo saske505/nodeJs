@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 xml:space="preserve">
+<a id="XMLID_1419_" xlink:href="client" >
+	<g>
+		<g id="XMLID_1417_">
+			<path id="XMLID_1603_" fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E8" d="M14.4,14C8.7,14,4,18.4,4,24.2V41h10.4h10.4
+				H41V14H14.4z"/>
+			<path id="XMLID_1600_" fill-rule="evenodd" clip-rule="evenodd" fill="#BBBDBF" d="M40.5,13.8c-5.7,0-10.5,4.7-10.5,10.4V41h21
+				V24.2C51,18.4,46.2,13.8,40.5,13.8z"/>
+			<g id="XMLID_1327_">
+				<polygon id="XMLID_1601_" fill-rule="evenodd" clip-rule="evenodd" fill="#D0AC54" points="30,24 30,40 51.1,40 55.2,24 				"/>
+				<polygon id="XMLID_1546_" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="30,31 30,37 40.8,37 42.5,31 				"/>
+				<polygon id="XMLID_1539_" fill-rule="evenodd" clip-rule="evenodd" fill="#B0101F" points="48.7,26 47.8,29 51.9,29 52.8,26 
+									"/>
+				<polygon id="XMLID_1599_" fill-rule="evenodd" clip-rule="evenodd" fill="#B0101F" points="44,26 43.1,29 47.1,29 48.1,26 				
+					"/>
+			</g>
+			<g id="XMLID_1415_">
+				<g id="XMLID_1602_">
+					<rect id="XMLID_1606_" x="17" y="6" fill-rule="evenodd" clip-rule="evenodd" fill="#B0101F" width="8" height="4"/>
+					<rect id="XMLID_1605_" x="22" y="7" fill-rule="evenodd" clip-rule="evenodd" fill="#B0101F" width="3" height="20"/>
+					<circle id="XMLID_1604_" fill-rule="evenodd" clip-rule="evenodd" fill="#B0101F" cx="23.7" cy="27.3" r="2.6"/>
+				</g>
+				<rect id="XMLID_1414_" x="22.2" y="28.8" fill-rule="evenodd" clip-rule="evenodd" fill="#B0101F" width="1.5" height="1.1"/>
+				<g id="XMLID_1328_">
+					<rect id="XMLID_1413_" x="15" y="6" fill-rule="evenodd" clip-rule="evenodd" fill="#ED2D2B" width="8" height="4"/>
+					<rect id="XMLID_1412_" x="21" y="7" fill-rule="evenodd" clip-rule="evenodd" fill="#ED2D2B" width="2" height="20"/>
+					<circle id="XMLID_1329_" fill-rule="evenodd" clip-rule="evenodd" fill="#ED2D2B" cx="22.2" cy="27.3" r="2.6"/>
+				</g>
+			</g>
+			<rect id="XMLID_1416_" x="30" y="40" fill-rule="evenodd" clip-rule="evenodd" fill="#E6E7E8" width="30" height="1"/>
+		</g>
+		<rect id="XMLID_1418_" x="20" y="41" fill-rule="evenodd" clip-rule="evenodd" fill="#BBBDBF" width="6" height="15"/>
+	</g>
+</a>
+</svg>
